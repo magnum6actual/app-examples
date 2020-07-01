@@ -1,2 +1,10 @@
 [
+	{
+		"scope": "boards:write boards:read team:write identity:write auditlogs:read identity:read team:read",
+		"account_id": "3074457348504171799",
+		"user_id": "3074457347583738100",
+		"token_type": "Bearer",
+		"team_id": "3074457348504171799",
+		"access_token": "5bda7b2b-68ee-4f43-8393-921926c223e9"
+	}
 ]
